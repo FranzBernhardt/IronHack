@@ -36,4 +36,5 @@ public class RateMalZahl {
 
         }
     }
+    // Test gitHub
 }
